@@ -1,2 +1,2 @@
 # Certifica
-Documentación de Certificaciones Laborales
+Documentación
